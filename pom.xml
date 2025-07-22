@@ -7,7 +7,7 @@
   <artifactId>app-consortia-manager</artifactId>
   <groupId>org.folio</groupId>
   <description>Application for FOLIO</description>
-  <version>${folio-application-generator.version}</version>
+  <version>1.2.0-SNAPSHOT</version>
 
   <properties>
     <folio-application-generator.version>1.2.0-SNAPSHOT</folio-application-generator.version>
@@ -19,7 +19,7 @@
       <plugin>
         <groupId>org.folio</groupId>
         <artifactId>folio-application-generator</artifactId>
-        <version>${folio-application-generator.version}</version>
+        <version>1.2.0-SNAPSHOT</version>
         <executions>
           <execution>
             <goals>
