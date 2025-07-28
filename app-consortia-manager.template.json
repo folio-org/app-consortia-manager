@@ -6,7 +6,7 @@
   "dependencies": [
     {
       "name": "app-consortia",
-      "version": "^1.0.0-SNAPSHOT"
+      "version": "^1.4.0-SNAPSHOT"
     }
   ],
   "uiModules": [
