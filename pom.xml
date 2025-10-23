@@ -6,7 +6,7 @@
   <artifactId>app-consortia-manager</artifactId>
   <groupId>org.folio</groupId>
   <description>Application for FOLIO</description>
-  <version>1.2.0-SNAPSHOT</version>
+  <version>1.2.0</version>
 
   <properties>
     <project.name>app-consortia-manager</project.name>
