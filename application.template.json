@@ -1,0 +1,20 @@
+{
+  "name": "${project.name}",
+  "version": "${project.version}",
+  "description": "${project.description}",
+  "platform": "complete",
+  "dependencies": [
+    {
+      "name": "app-consortia",
+      "version": "^1.4.0-SNAPSHOT",
+      "preRelease": "only"
+    }
+  ],
+  "uiModules": [
+    {
+      "name": "folio_consortia-settings",
+        "version": "latest",
+        "preRelease": "only"
+    }
+  ]
+}
