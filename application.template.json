@@ -6,14 +6,14 @@
   "dependencies": [
     {
       "name": "app-consortia",
-      "version": "^VERSION",
+      "version": "^1.2.3",
       "preRelease": "false"
     }
   ],
   "uiModules": [
     {
       "name": "folio_consortia-settings",
-      "version": "^VERSION",
+      "version": "^3.0.1",
       "preRelease": "false"
     }
   ]
