@@ -6,15 +6,15 @@
   "dependencies": [
     {
       "name": "app-consortia",
-      "version": "^1.4.0-SNAPSHOT",
-      "preRelease": "only"
+      "version": "^VERSION_^1.4.0-SNAPSHOT",
+      "preRelease": "false"
     }
   ],
   "uiModules": [
     {
       "name": "folio_consortia-settings",
-        "version": "latest",
-        "preRelease": "only"
+      "version": "^VERSION_latest",
+      "preRelease": "false"
     }
   ]
 }
